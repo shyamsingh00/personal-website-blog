@@ -1,0 +1,7 @@
+[submodule "shyamsingh00-blog/themes/hugo-coder"]
+	path = shyamsingh00-blog/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "shyamsingh00-blog/public"]
+	path = shyamsingh00-blog/public
+	url = https://github.com/shyamsingh00/shyamsingh00.github.io.git
+	branch = main
